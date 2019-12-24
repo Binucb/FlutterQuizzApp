@@ -74,7 +74,7 @@ class _QuizPageState extends State<QuizPage> {
               child: Text(
                 'False',
                 style: TextStyle(
-                  fontSize: 20.0,
+                  fontSize: 22.0,
                   color: Colors.white,
                 ),
               ),
